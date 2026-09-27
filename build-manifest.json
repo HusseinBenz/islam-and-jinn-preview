@@ -35,7 +35,10 @@
     "articles/four-conversations/index.html",
     "articles/ruqyah-psychological-distress/index.html",
     "about/index.html",
+    "assets/sakina.css",
     "assets/site.css",
+    "assets/sakina.js",
+    "assets/reading.js",
     "robots.txt"
   ]
 }
